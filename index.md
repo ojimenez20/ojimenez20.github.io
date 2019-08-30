@@ -1,6 +1,6 @@
-
-title: welcome to ojimenez20's homepage !
-discription: Feel free to bookmark this to keep an eye out on my projects updates
+theme: jekyll-theme-cayman
+title: Welcome to ojimenez20's homepage !
+description: Feel free to bookmark this to keep an eye on my project updates 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
